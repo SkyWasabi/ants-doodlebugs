@@ -3,8 +3,7 @@
  ** Author: Ethan Spiro
  ** Class: CS 162
  ** Due Date: 3/18/14
- ** Description: final project with randomized movement of creatures,
- ** new code starts at line 200
+ ** Description: final project with randomized movement of creatures
  ** Input: n to generate a new world, any other key to quit
  ** Output: Cellular automata of Ant and Doodlebugs w/ randomized movement
  *********************************************************************/
